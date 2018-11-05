@@ -1,0 +1,15 @@
+baseURL = "https://fohte.net/"
+languageCode = "en-US"
+title = "fohte.net"
+author = "Hayato Kawai"
+theme = "cocoa-eh"
+
+[params]
+highlightjs = true
+twitter = "fohte"
+github = "fohte"
+email = "fohte.hk@gmail.com"
+dateform = "Jan 2, 2006"
+dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+posts_navigation = true
+latestpostcount = 5
