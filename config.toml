@@ -15,3 +15,6 @@ posts_navigation = true
 latestpostcount = 5
 disablefancyfonts = true
 enlarged = true
+
+[blackfriday]
+extensions = ["hardLineBreak"]
