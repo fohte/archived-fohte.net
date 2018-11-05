@@ -543,8 +543,6 @@ div.main .content .markdown p {
   margin-top: 0;
   margin-bottom: 1em;
 }
-div.main .content .markdown ul,
-div.main .content .markdown ol,
 div.main .content .markdown dl {
   margin-top: 1rem;
   margin-bottom: 2rem;
@@ -558,11 +556,9 @@ div.main .content .markdown dd {
 div.main .content .markdown ul {
   list-style-type: disc;
   list-style-position: outside;
-  margin-bottom: 1.25rem;
 }
 div.main .content .markdown ol {
   list-style-type: decimal;
-  margin-bottom: 1.25rem;
 }
 div.main .content .markdown li {
   margin-left: 2em;
