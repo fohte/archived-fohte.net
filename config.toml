@@ -3,6 +3,7 @@ languageCode = "en-US"
 title = "fohte.net"
 author = "Hayato Kawai"
 theme = "cocoa-eh"
+googleanalytics = "UA-49994513-2"
 
 [params]
 highlightjs = true
