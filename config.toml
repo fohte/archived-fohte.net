@@ -19,5 +19,8 @@ enlarged = true
 logofile = "img/icon.png"
 faviconfile = "img/icon.png"
 
+[permalinks]
+blog = "/blog/:year/:month/:day/:filename/"
+
 [blackfriday]
 extensions = ["hardLineBreak"]
