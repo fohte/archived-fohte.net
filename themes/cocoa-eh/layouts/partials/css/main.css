@@ -315,13 +315,6 @@ div.main .content .front-matter .meta {
   display: flex;
   margin-bottom: 32px;
 }
-div.main .content .front-matter .date,
-div.main .content .front-matter .author,
-div.main .content .front-matter .tags,
-div.main .content .front-matter .word-count,
-div.main .content .front-matter .middot:before {
-  display: none;
-}
 div.main .content .front-matter .middot:before {
   font-size: 6px;
   margin: 0 6px;
