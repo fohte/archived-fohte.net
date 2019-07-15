@@ -60,7 +60,7 @@ a:active {
 }
 html {
   height: 100%;
-  font-size: 16px;
+  font-size: 15px;
 }
 body {
   display: -webkit-flex;
@@ -458,7 +458,6 @@ div.main .content {
     width: 100%;
 }
 div.main .content .markdown {
-  font-size: 1.05em;
   line-height: 1.7em;
   color: #313537;
 }
@@ -532,11 +531,7 @@ div.main .content .markdown a code:hover {
   text-decoration: underline;
 }
 div.main .content .markdown p {
-  {{if .Site.Params.align_left}}
   text-align: left;
-  {{else}}
-  text-align: justify;
-  {{end}}
   margin-top: 0;
   margin-bottom: 1em;
 }
