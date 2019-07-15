@@ -728,3 +728,8 @@ kbd {
       font-family: 'Ubuntu Mono';
 }
 {{ end  }}
+
+div.main .content .markdown pre code {
+  display: block;
+  overflow-x: auto;
+}
