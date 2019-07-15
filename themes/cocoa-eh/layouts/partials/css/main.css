@@ -509,7 +509,6 @@ div.main .content .markdown pre {
   line-height: 1.5em;
   white-space: pre;
   word-break: break-all;
-  word-wrap: break-word;
 }
 div.main .content .markdown pre code {
   /* enclosed by 4 backticks (````) */
