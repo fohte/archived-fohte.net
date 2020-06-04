@@ -1,3 +1,7 @@
 [build]
 command = "hugo"
 publish = "public"
+
+[[redirects]]
+from = "/blog/:year/:month/:day/:slug/"
+to = "https://blog.fohte.net/posts/:year-:month-:day-:slug"
